@@ -5,8 +5,8 @@ int add_numbers(int a, int b) {
 }
 
 int main() {
-    int num1 = 5;
-    int num2 = 3;
+    int num1 = 5;  //num1
+    int num2 = 3;  //num2
 
     int result = add_numbers(num1, num2);
 

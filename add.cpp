@@ -1,7 +1,7 @@
 #include <iostream>
 
 int add_numbers(int a, int b) {
-    return a - b;  // Bug: Should be addition, but subtraction is used
+    return a + b;  // Bug: Should be addition, but subtraction is used
 }
 
 int main() {
